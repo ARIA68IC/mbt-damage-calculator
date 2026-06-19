@@ -1,1 +1,0 @@
-# mbt-damage-calculator
